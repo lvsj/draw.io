@@ -1,4 +1,5 @@
 +rules:
   - "DOMAIN-SUFFIX,xueqiu.com,DIRECT"
+  - "DOMAIN-SUFFIX,komect.net,DIRECT"
   - "IP-CIDR,127.0.0.0/8,DIRECT"
   - "IP-CIDR,12.0.0.0/8,DIRECT"
